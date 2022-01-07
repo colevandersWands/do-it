@@ -1,2 +1,8 @@
 # - name: Real Name
 #   user: github user name
+- name: adam
+  user: lpmi-13
+- name: yoshi
+  user: yoshimalaise
+- name: evan
+  user: colevandersWands
