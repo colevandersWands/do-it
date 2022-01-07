@@ -1,27 +1,13 @@
 <!-- BEGIN TOP -->
 
-# Setup Instructions
+# Do It
 
-This is the seed template for your very own learning space. All you need to do
-is use this template to generate your own repository, and the github action will
-do all the work of setting up the readme with steps for your learning journey!
-
-## Getting Started
-
-1. Click the "Use Template" button on the upper right hand corner of this page.
-   ![the use template button](./assets/use-this-template.png)
-2. You can name the repository whatever you want
-   ![naming the new repository](./assets/name-the-new-repo.png)
-3. After your new repository is done being created, you'll be redirected to it.
-4. To generate your learning path, go to the "Actions" tab and click on "I
-   understand my workflows, go ahead and enable them".
-   ![actions tab](./assets/actions-tab.png)
-5. In the Workflows section, select "set up repo", and press the "run workflow"
-   button to run the action
-   ![running the workflow to set up the repo](./assets/run-the-action.png)
-6. The GitHub action will run and set up your readme, so you can read it to find
-   out what to study first!
-   ![the generated learning path](./assets/your-learning-path.png)
+> - [Study Board](https://github.com/colevandersWands/do-it/projects/1)
+> - [Issues](https://github.com/colevandersWands/do-it/issues)
+>   - [`help-wanted`](https://github.com/colevandersWands/do-it/issues?q=is%3Aopen+label%3Ahelp-wanted)
+>   - [`question`](https://github.com/colevandersWands/do-it/issues?q=is%3Aopen+label%3Aquestion)
+> - [Pull Requests](https://github.com/colevandersWands/do-it/pulls)
+> - [Shared Notes](./shared-notes)
 
 ---
 
@@ -33,4 +19,122 @@ do all the work of setting up the readme with steps for your learning journey!
 
 <!-- BEGIN LEARNERS -->
 
+## Learners
+
+<h3 id="lpmi-13"><a href="https://github.com/lpmi-13">adam</a></h3>
+
+- [questions](https://github.com/colevandersWands/do-it/issues/?q=author%3Alpmi-13+label%3Aquestion)
+  |
+  [help-wanted](https://github.com/colevandersWands/do-it/issues/?q=author%3Alpmi-13+label%3Ahelp-wanted)
+  |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=autho%3Aadam+label%3Astudy)
+
+<details>
+<summary>more about adam</summary>
+<br>
+
+![lpmi-13 avatar](./.school/assets/avatars/lpmi-13.jpeg)
+
+![lpmi-13 github activity](https://ghchart.rshah.org/lpmi-13)
+
+![lpmi-13 github stats](https://github-readme-stats.vercel.app/api?username=lpmi-13&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+
+<h3 id="yoshimalaise"><a href="https://github.com/yoshimalaise">yoshi</a></h3>
+
+- [questions](https://github.com/colevandersWands/do-it/issues/?q=author%3Ayoshimalaise+label%3Aquestion)
+  |
+  [help-wanted](https://github.com/colevandersWands/do-it/issues/?q=author%3Ayoshimalaise+label%3Ahelp-wanted)
+  |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=autho%3Ayoshi+label%3Astudy)
+
+<details>
+<summary>more about yoshi</summary>
+<br>
+
+![yoshimalaise avatar](./.school/assets/avatars/yoshimalaise.jpeg)
+
+![yoshimalaise github activity](https://ghchart.rshah.org/yoshimalaise)
+
+![yoshimalaise github stats](https://github-readme-stats.vercel.app/api?username=yoshimalaise&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+
+<h3 id="colevandersWands"><a href="https://github.com/colevandersWands">evan</a></h3>
+
+- [questions](https://github.com/colevandersWands/do-it/issues/?q=author%3AcolevandersWands+label%3Aquestion)
+  |
+  [help-wanted](https://github.com/colevandersWands/do-it/issues/?q=author%3AcolevandersWands+label%3Ahelp-wanted)
+  |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=autho%3Aevan+label%3Astudy)
+
+<details>
+<summary>more about evan</summary>
+<br>
+
+![colevandersWands avatar](./.school/assets/avatars/colevandersWands.jpeg)
+
+![colevandersWands github activity](https://ghchart.rshah.org/colevandersWands)
+
+![colevandersWands github stats](https://github-readme-stats.vercel.app/api?username=colevandersWands&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+
+---
+
 <!-- END LEARNERS -->
+
+<!-- BEGIN MATERIALS -->
+
+## Materials
+
+Gitting
+
+### [Merge A Matic](https://github.com/lpmi-13/merge-a-matic)
+
+- [open in gitpod](https://gitpod.io/#https://github.com/lpmi-13/merge-a-matic)
+  |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=milestone%3Amerge-a-matic+label%3Astudy)
+  | [milestone](https://github.com/colevandersWands/do-it/milestone/1)
+
+One of the difficult parts of collaboration is dealing with merge conflicts.
+Never fear, though! In this repository, we'll walk through how to resolve one
+such conflict.
+
+### [Reflog Power](https://github.com/lpmi-13/reflog-power)
+
+- [open in gitpod](https://gitpod.io/#https://github.com/lpmi-13/reflog-power) |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=milestone%3Areflog-power+label%3Astudy)
+  | [milestone](https://github.com/colevandersWands/do-it/milestone/2)
+
+The basic idea is to practice accidentally deleting one of our local branches
+(which I've done a few times), and then finding it again in the reflog. Scary,
+right! I used to think so, but don't worry...the reflog can help us.
+
+### [Rebasic](https://github.com/lpmi-13/rebasic)
+
+- [open in gitpod](https://gitpod.io/#https://github.com/lpmi-13/rebasic) |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=milestone%3Arebasic+label%3Astudy)
+  | [milestone](https://github.com/colevandersWands/do-it/milestone/3)
+
+Rebasing is scary for people. We need to practice it to feel less scared.
+Practicing with immediate actionable feedback could help this process.
+
+### [Tree Slayer](https://github.com/lpmi-13/tree-slayer)
+
+- [open in gitpod](https://gitpod.io/#https://github.com/lpmi-13/tree-slayer) |
+  [study tickets](https://github.com/colevandersWands/do-it/projects/1?card_filter_query=milestone%3Atree-slayer+label%3Astudy)
+  | [milestone](https://github.com/colevandersWands/do-it/milestone/4)
+
+Have you ever wondered about the deep git magicks...?
+
+Have you ever heard about git's ability to delete a file across the entire git
+history in a recursive rebase-like fashion...?
+
+Have you ever been reading the ancient scrolls late at night, and come across
+the git filter-branch command...?
+
+---
+
+<!-- END MATERIALS -->

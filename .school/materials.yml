@@ -36,7 +36,7 @@ path:
     url: https://github.com/lpmi-13/tree-slayer
     milestone: 4
 board:
-  number: 26
+  number: 1
   name: school
   description: ''
   columns:
